@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/iqra-majid/Pluse-app.git/static/css/main.5f1d3b3e.css",
+    "main.js": "/iqra-majid/Pluse-app.git/static/js/main.901e856a.js",
+    "static/js/453.7f6ff013.chunk.js": "/iqra-majid/Pluse-app.git/static/js/453.7f6ff013.chunk.js",
+    "index.html": "/iqra-majid/Pluse-app.git/index.html",
+    "main.5f1d3b3e.css.map": "/iqra-majid/Pluse-app.git/static/css/main.5f1d3b3e.css.map",
+    "main.901e856a.js.map": "/iqra-majid/Pluse-app.git/static/js/main.901e856a.js.map",
+    "453.7f6ff013.chunk.js.map": "/iqra-majid/Pluse-app.git/static/js/453.7f6ff013.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f1d3b3e.css",
+    "static/js/main.901e856a.js"
+  ]
+}
